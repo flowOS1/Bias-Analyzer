@@ -1,6 +1,0 @@
-{
-  "name": "Bias Analyzer",
-  "description": "An interactive, grammar-checker-style tool that analyzes news articles and custom text for cognitive biases, framing techniques, and sensationalism.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
